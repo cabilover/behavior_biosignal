@@ -1,0 +1,131 @@
+Information and location by file
+
+* M04_Base.csv
+AnxScr [1,0] : Self-rating anxiety score - baseline [2,0]
+RT1 Time [1,2] : Rating time stamp [2.1]
+RT1 [1,2] : Time to response [2,2]
+
+* M04_Base_HRV.csv
+Start Time [1,0] : Start time stamp [1,1]
+
+* M04_Base_HRV_Result.txt
+df -> ref3 참조
+
+* M07_S2_P1.csv
+AnxScr [1,0] : Self-rating anxiety score - after explanation before elevator [2,0]
+RT1 Time [1,2] : Rating time stamp [2.1]
+RT1 [1,2] : Time to response [2,2]
+RESP [1,3] : whether to progress to 2 boarding [2,3]
+RT2 TIme [1,4] : Rating time stamp [2.4]
+RT2 [1,5] : Time to response [2,5]
+
+* M07_S2_P1HRV.csv
+Start Time [1,0] : Start time stamp [1,1]
+
+* M07_S2_P1HRV_Result.txt
+df -> ref3 
+
+* M08_S2_P2.csv 
+AnxScr [1,0] : Self-rating anxiety score - after 2 boarding elevator [2,0]
+RT1 Time [1,2] : Rating time stamp [2.1]
+RT1 [1,2] : Time to response [2,2]
+RESP [1,3] : whether to progress to 6 boarding [2,3]
+RT2 TIme [1,4] : Rating time stamp [2.4]
+RT2 [1,5] : Time to response [2,5]
+
+* M08_S2_P2HRV.csv
+Start Time [1,0] : Start time stamp [1,1]
+
+* M08_S2_P2HRV_Result.txt
+df -> ref3 
+
+* M08_S2_P3.csv
+AnxScr [1,0] : Self-rating anxiety score - after 6 boarding elevator [2,0]
+RT1 Time [1,2] : Rating time stamp [2.1]
+RT1 [1,2] : Time to response [2,2]
+
+* M08_S2_P3HRV.csv
+Start Time [1,0] : Start time stamp [1,1]
+
+* M08_S2_P3HRV_Result.txt
+df -> ref3 
+
+* M07_S3_P1.csv 
+AnxScr [1,0] : Self-rating anxiety score - before relaxation [2,0]
+RT1 Time [1,2] : Rating time stamp [2.1]
+RT1 [1,2] : Time to response [2,2]
+
+* M08_S3_P2.csv 
+AnxScr [1,0] : Self-rating anxiety score - after respiratory relaxation [2,0]
+RT1 Time [1,2] : Rating time stamp [2.1]
+RT1 [1,2] : Time to response [2,2]
+
+* M08_S3_P2HRV.csv 
+Start Time [1,0] : Start time stamp [1,1]
+
+* M08_S3_P2HRV_Result.txt 
+df -> ref3 
+
+* M08_S3_P3.csv 
+AnxScr [1,0] : Self-rating anxiety score - after PMR [2,0]
+RT1 Time [1,2] : Rating time stamp [2.1]
+RT1 [1,2] : Time to response [2,2]
+
+* M08_S3_P3HRV.csv 
+Start Time [1,0] : Start time stamp [1,1]
+
+* M08_S3_P3HRV_Result.txt 
+df -> ref3 
+
+* M08_S4_P1.csv 
+AnxScr [1,0] : Self-rating anxiety score - before interoceptive exposure [2,0]
+RT1 Time [1,2] : Rating time stamp [2.1]
+RT1 [1,2] : Time to response [2,2]
+
+* M08_S4_P2.csv 
+RESP [1,0] : Discontinuation hyperventilation [2,0]
+RT1 Time [1,2] : Rating time stamp [2.1]
+RT1 [1,2] : Time to response [2,2]
+AnxScr [1,3] : Self-rating anxiety score - during hyperventilation [2,0] [2,3]
+RT2 TIme [1,4] : Rating time stamp [2.4]
+RT2 [1,5] : Time to response [2,5]
+
+* M08_S4_P2_1HRV.csv 
+Start Time [1,0] : Start time stamp [1,1]
+
+* M08_S4_P2HRV.csv 
+Start Time [1,0] : Start time stamp [1,1]
+
+* M08_S4_P2_1HRV_Result.txt 
+df -> ref3 
+
+* M08_S4_P2HRV_Result.txt
+df -> ref3 
+
+* M08_S4_P3.csv 
+RESP [1,0] : Discontinuation headdown [2,0]
+RT1 Time [1,2] : Rating time stamp [2.1]
+RT1 [1,2] : Time to response [2,2]
+AnxScr [1,3] : Self-rating anxiety score - during headdown [2,0] [2,3]
+RT2 TIme [1,4] : Rating time stamp [2.4]
+RT2 [1,5] : Time to response [2,5]
+
+* M08_S4_P3_1HRV.csv 
+Start Time [1,0] : Start time stamp [1,1]
+
+* M08_S4_P3HRV.csv 
+Start Time [1,0] : Start time stamp [1,1]
+
+* M08_S4_P3_1HRV_Result.txt 
+df -> ref3 
+
+* M08_S4_P3HRV_Result.txt
+df -> ref3 
+
+* M09_S4_RESP.csv 
+RESP [1,0] : text - symptoms
+RT Time [1,1] : Rating time stamp
+RT 1,2] : time to response
+
+* RawHR.csv
+df -> ref4 

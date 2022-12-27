@@ -1,0 +1,44 @@
+the form per line - "Ts = 117.25" or "deltaTime = 0.2500 (s)"
+
+1. If '(' is on the right side of this '=' -> slice between '=' and '('.
+2. If there is none, slice from '=' to the end.
+3. Get the value in the form of a string.
+
+0	T = 117.344
+1	Ts = 117.25
+2	Nt = 470
+3	Nf = 512
+4	Fs = 4 (Hz)
+5	deltaTime = 0.2500 (s)
+6	deltaFreq = 0.000977 (Hz)
+7	Mean RR = 856.833 (ms)
+8	SDNN = 42.505 (ms)
+9	SDSD = 20.891 (ms)
+10	Mean HR = 70.198 (bpm)
+11	SDHR = 3.506 (bpm)
+12	HR Max-Min = 79.893-62.048 (bpm)
+13	RMSSD = 41.0419 (ms)
+14	RR20 = 100
+15	pRR20 = 72.9927 (%)
+16	RR50 = 35
+17	pRR50 = 25.5475 (%)
+18	HRV Triangular Index = 11.5000
+19	TINN = 179.6875 (ms)
+20	SI = 10.268
+21	TP = 1968.150 (ms^2)
+22	ULF = 0.000 (ms^2)
+23	VLF = 262.327 (ms^2)
+24	LF = 1222.531 (ms^2)
+25	HF = 483.292 (ms^2)
+26	VLF peak = 0.024 (Hz)
+27	LF peak = 0.063 (Hz)
+28	HF peak = 0.389 (Hz)
+29	LF/HF = 2.5296
+30	ln(LF) = 7.109
+31	ln(HF) = 6.181
+32	ln(LF+HF) = 7.4
+33	norm LF = 71.7 (%)
+34	norm HF = 28.3 (%)
+35	norm ln(LF) = 53.5 (%)
+36	norm ln(HF) = 46.5 (%)
+
